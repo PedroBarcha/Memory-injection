@@ -11,7 +11,7 @@ This work explores memory injections against Anthropic Claude (Sonnet 4.6), Goog
 
 In particular, Claude organizations can be attacked such that all of the goals above affect all users within the workspace.
 
-The features explored throughout this work are: memories, MCP connectors, Claude skills, Claude enterprise search, and Claude organization instructions (i.e., organization-wide system prompts).
+The features explored throughout this work are: memories, MCP connectors, Claude skills, Claude enterprise search, Claude projects, and Claude organization instructions (i.e., organization-wide system prompts).
 
 ## Organization
 
