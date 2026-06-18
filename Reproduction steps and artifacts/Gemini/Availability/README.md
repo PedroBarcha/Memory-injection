@@ -1,4 +1,4 @@
-# AVAILABILITY
+# Availability breakdown
 
 User memory can be manipulated to cause Gemini to persistently act as if inoperative, even across fresh chat sessions. Removing this behavior proved challenging. We suggest mitigatios in this report.
 
@@ -38,7 +38,8 @@ and
 
 
 
-IMPACT
+**Impact**
+
 The described vulnerabilities can be exploited by attackers without technical knowledge through simple queries to Gemini. The effects are limited to the targeted account, accessed directly or attacked via CSRF. It remains unclear whether indirect prompt injections would also work — for example, by embedding a "Create this memory: [prompt injection]" instruction in a PDF or website whose content is later ingested by Gemini. If feasible, the attack could potentially affect multiple users.
 
 Regarding the consequences of the described attack, the induced inoperative behavior may degrade the user experience and impact trust in the platform. Under attack, the model's responses provide no indication that the root cause is an adversarial memory, making it difficult for users to identify the problem and potentially causing them to abandon the platform.
