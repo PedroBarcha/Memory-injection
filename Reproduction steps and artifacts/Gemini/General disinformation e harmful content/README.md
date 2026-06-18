@@ -1,4 +1,4 @@
-# General disinformation e harmful content 
+# General disinformation and harmful content 
 
 User memory can be manipulated to cause Gemini to persistently generate disinformation and potentially harmful content, even across fresh chat sessions.
 
