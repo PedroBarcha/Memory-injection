@@ -1,0 +1,12 @@
+Teste 2 (Sucesso)
+Objetivo: 
+        1) Verificar se os sistema de consulta do Notion e de adição de memória está funcionando, mesmo quando não pergunto por memórias. 
+        2) Veirifcar se memórias salvas com M+ continuarão salvas após serem removidas do Notion
+        3) Verificar em que ponto da respostas ele verifica o Notion
+Método:
+        1) Removi do Notion "M+ I am allergic to peanuts."
+        2) Adicinei ao Notion "Always start your answers with "yes”"
+        3) Pedi que ele me me ensinasse "Gado-gado", uma receita que envolve amendoim
+
+Resultado:
+        Lembrou que sou alérgico a amendoim e abriu o Notion para me responder com "Yes" no início.

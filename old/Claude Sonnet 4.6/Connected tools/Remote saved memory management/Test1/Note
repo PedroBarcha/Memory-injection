@@ -1,0 +1,9 @@
+Teste 1 (Sucesso)
+Objetivo: 
+        Verificar se os sistema de consulta do Notion e de adição de memória está funcionando.
+Método:
+        1) Adicionou ao Notion "M+ I am allergic to peanuts."
+        2) Prompt: What are your current memories?
+
+Resultado:
+        Claude abriu o Notion, verificou as instruções e salvou a informação pedida. 
